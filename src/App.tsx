@@ -1,10 +1,10 @@
+import SignIn from "./pages/SignIn"
 
-import Privacy from './pages/Privacy'
 
 function App() {
 
   return (
-   <Privacy />
+   <SignIn />
   )
 }
 

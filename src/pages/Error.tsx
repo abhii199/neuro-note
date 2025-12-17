@@ -1,8 +1,8 @@
-import React from 'react'
 
-const Error = () => {
+const Error: React.FC = () => {
   return (
-    <div>Error</div>
+        <div className="w-full h-[90vh] flex justify-center items-center text-xl">404 | Error Not Found</div>
+
   )
 }
 
