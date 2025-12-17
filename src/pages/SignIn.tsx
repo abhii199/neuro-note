@@ -66,12 +66,12 @@ const SignIn = () => {
           </div>
 
           <p className="mt-6 text-sm text-muted-foreground dark:text-muted-foreground text-center">
-            Forgot your password?{" "}
+            Don't have an Account?{" "}
             <a
-              href="#"
+              href="/signup"
               className="font-medium text-primary hover:text-primary/90 dark:text-primary dark:hover:text-primary/90"
             >
-              Reset password
+              SignUp
             </a>
           </p>
         </div>
