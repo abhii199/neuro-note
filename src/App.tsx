@@ -1,10 +1,10 @@
 
-import TermService from './pages/TermService'
+import Privacy from './pages/Privacy'
 
 function App() {
 
   return (
-   <TermService />
+   <Privacy />
   )
 }
 
