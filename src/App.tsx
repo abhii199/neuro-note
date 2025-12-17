@@ -1,10 +1,10 @@
 
-import { Button } from './components/ui/button'
+import TermService from './pages/TermService'
 
 function App() {
 
   return (
-   <Button className='bg-primary dark:bg-primary-dark' variant={'secondary' } size={'lg'}>Hello</Button>
+   <TermService />
   )
 }
 
